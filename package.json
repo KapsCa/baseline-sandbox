@@ -1,0 +1,10 @@
+{
+  "name": "baseline-sandbox",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Banco de pruebas de las plantillas de kkapsca-skills.",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
