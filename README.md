@@ -7,3 +7,4 @@ Banco de pruebas de las plantillas de [kkapsca-skills](https://github.com/KapsCa
 nunca se ejecuto no esta verificada.
 
 Cada plantilla nueva se copia aca, se empuja, y se mira si los workflows pasan.
+a
